@@ -1,0 +1,15 @@
+name = AliyunOSS
+description = Provides Aliyun OSS stream wrapper class
+package = Aliyun
+core = 7.x
+files[] = aliyunoss.module
+files[] = aliyunoss.admin.inc
+files[] = AliyunOSSStreamWrapper.inc
+
+dependencies[] = osssdk
+; Information added by drupal.org packaging script on 2013-09-22
+version = "7.x-1.0"
+core = "7.x"
+project = "aliyunoss"
+datestamp = "1379822062"
+

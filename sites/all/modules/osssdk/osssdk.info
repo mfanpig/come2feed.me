@@ -1,0 +1,13 @@
+name = OSS SDK for PHP
+description = The OSS SDK for PHP provides a library for developers working with Aliyun OSS.
+package = Libraries
+core = 7.x
+dependencies[] = libraries (>= 2.0)
+files[] = osssdk.test
+
+; Information added by drupal.org packaging script on 2013-09-22
+version = "7.x-1.0"
+core = "7.x"
+project = "osssdk"
+datestamp = "1379822312"
+
